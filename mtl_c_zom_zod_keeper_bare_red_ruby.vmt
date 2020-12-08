@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/call_of_duty_zombies/black_ops_3/shadows_of_evil/enemies/keeper/mtl_c_zom_zod_keeper_bare_red_ruby"
+	"$envmap" "models/shared/cubemap_sheen001"
+	"$envmaptint" "[7 0 0]"
+	"$envmapfresnel" .7
+
+	"$basemapalphaphongmask" "1"
+
+	"$phong" "1"
+	"$phongboost" ".7"
+	"$phongtint" "[7 0 0]"
+	"$phongexponent" "5"
+	"$phongfresnelranges" "[0.2 0.5 0]"
+
+	"$ambientocclusion" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "10"
+}
